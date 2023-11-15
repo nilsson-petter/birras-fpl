@@ -1,0 +1,337 @@
+,entry,player_name,entry_name,event,points,overall_rank,bank,value,event_transfers_cost,points_on_bench
+0,539184,gustaf hallgren,Ersboda Bears,1,77,1221598,0,1000,0,3
+1,539184,gustaf hallgren,Ersboda Bears,2,54,903660,5,1003,0,2
+2,539184,gustaf hallgren,Ersboda Bears,3,38,1923703,10,1007,0,4
+3,539184,gustaf hallgren,Ersboda Bears,4,78,1644750,3,1007,0,6
+4,539184,gustaf hallgren,Ersboda Bears,5,49,1656866,6,1006,4,2
+5,539184,gustaf hallgren,Ersboda Bears,6,92,538931,1,1006,0,4
+6,539184,gustaf hallgren,Ersboda Bears,7,47,1022204,51,1005,4,5
+7,539184,gustaf hallgren,Ersboda Bears,8,68,508923,6,1007,8,6
+8,539184,gustaf hallgren,Ersboda Bears,9,103,137092,14,1011,0,4
+9,539184,gustaf hallgren,Ersboda Bears,10,63,195537,21,1015,0,3
+10,539184,gustaf hallgren,Ersboda Bears,11,29,212557,4,1020,0,9
+11,539184,gustaf hallgren,Ersboda Bears,12,78,179983,5,1020,0,1
+12,3350498,John Virdeborn,IFK Ankeborg,1,81,572579,5,1000,0,5
+13,3350498,John Virdeborn,IFK Ankeborg,2,45,1415203,5,1003,0,2
+14,3350498,John Virdeborn,IFK Ankeborg,3,62,371756,9,1005,0,5
+15,3350498,John Virdeborn,IFK Ankeborg,4,70,751206,31,1009,0,7
+16,3350498,John Virdeborn,IFK Ankeborg,5,31,1921548,5,1010,0,2
+17,3350498,John Virdeborn,IFK Ankeborg,6,86,1232270,10,1009,4,6
+18,3350498,John Virdeborn,IFK Ankeborg,7,47,1545915,1,1012,0,4
+19,3350498,John Virdeborn,IFK Ankeborg,8,50,1303211,3,1014,0,6
+20,3350498,John Virdeborn,IFK Ankeborg,9,78,1242561,6,1018,0,2
+21,3350498,John Virdeborn,IFK Ankeborg,10,87,562950,0,1011,0,7
+22,3350498,John Virdeborn,IFK Ankeborg,11,22,813843,0,1020,0,12
+23,3350498,John Virdeborn,IFK Ankeborg,12,89,397840,0,1024,0,3
+24,5457449,Henrik Granered,Henrikinini AC,1,73,2126260,15,1000,0,12
+25,5457449,Henrik Granered,Henrikinini AC,2,59,812849,13,1001,0,14
+26,5457449,Henrik Granered,Henrikinini AC,3,53,531104,28,1007,0,7
+27,5457449,Henrik Granered,Henrikinini AC,4,49,3028645,28,1010,0,3
+28,5457449,Henrik Granered,Henrikinini AC,5,58,1602962,15,1008,0,6
+29,5457449,Henrik Granered,Henrikinini AC,6,65,2311139,30,1007,0,8
+30,5457449,Henrik Granered,Henrikinini AC,7,83,478229,10,1009,0,3
+31,5457449,Henrik Granered,Henrikinini AC,8,52,366073,10,1007,0,6
+32,5457449,Henrik Granered,Henrikinini AC,9,86,279320,25,1012,0,3
+33,5457449,Henrik Granered,Henrikinini AC,10,65,339506,6,1014,0,2
+34,5457449,Henrik Granered,Henrikinini AC,11,46,132795,6,1015,0,2
+35,5457449,Henrik Granered,Henrikinini AC,12,54,420637,7,1017,0,3
+36,451757,Mattias Lundberg,Inte OK,1,73,2126260,0,1000,0,4
+37,451757,Mattias Lundberg,Inte OK,2,48,2185508,0,1003,0,2
+38,451757,Mattias Lundberg,Inte OK,3,60,787098,15,1006,0,6
+39,451757,Mattias Lundberg,Inte OK,4,69,1364935,15,1010,0,6
+40,451757,Mattias Lundberg,Inte OK,5,62,350953,0,1010,0,7
+41,451757,Mattias Lundberg,Inte OK,6,78,324503,1,1015,0,5
+42,451757,Mattias Lundberg,Inte OK,7,46,601888,2,1018,0,5
+43,451757,Mattias Lundberg,Inte OK,8,45,850258,5,1020,4,9
+44,451757,Mattias Lundberg,Inte OK,9,81,756975,5,1025,0,4
+45,451757,Mattias Lundberg,Inte OK,10,65,873660,5,1027,0,5
+46,451757,Mattias Lundberg,Inte OK,11,17,1445237,0,1032,0,14
+47,451757,Mattias Lundberg,Inte OK,12,95,598096,0,1031,0,11
+48,1065901,Tomas Backlund,Millwall FC,1,79,865905,0,1000,0,10
+49,1065901,Tomas Backlund,Millwall FC,2,57,858179,20,1002,4,15
+50,1065901,Tomas Backlund,Millwall FC,3,39,1754666,34,1008,0,6
+51,1065901,Tomas Backlund,Millwall FC,4,91,550144,22,1010,0,3
+52,1065901,Tomas Backlund,Millwall FC,5,46,530817,17,1012,0,12
+53,1065901,Tomas Backlund,Millwall FC,6,78,465136,2,1014,0,5
+54,1065901,Tomas Backlund,Millwall FC,7,52,701765,0,1015,4,4
+55,1065901,Tomas Backlund,Millwall FC,8,48,669157,2,1017,0,9
+56,1065901,Tomas Backlund,Millwall FC,9,94,316368,0,1014,0,8
+57,1065901,Tomas Backlund,Millwall FC,10,54,646561,0,1018,0,19
+58,1065901,Tomas Backlund,Millwall FC,11,28,726628,0,1019,0,3
+59,1065901,Tomas Backlund,Millwall FC,12,77,602321,2,1024,0,8
+60,21481,Isak Goodnoe,Goa gubbar,1,73,2126260,0,1000,0,4
+61,21481,Isak Goodnoe,Goa gubbar,2,47,2340668,0,1003,0,7
+62,21481,Isak Goodnoe,Goa gubbar,3,38,3827271,29,1008,4,5
+63,21481,Isak Goodnoe,Goa gubbar,4,89,2093962,13,1009,0,20
+64,21481,Isak Goodnoe,Goa gubbar,5,38,2779319,19,1004,0,9
+65,21481,Isak Goodnoe,Goa gubbar,6,83,1729971,19,1005,0,13
+66,21481,Isak Goodnoe,Goa gubbar,7,65,892346,19,1011,0,3
+67,21481,Isak Goodnoe,Goa gubbar,8,42,1359570,2,1013,4,3
+68,21481,Isak Goodnoe,Goa gubbar,9,91,771244,13,1015,0,5
+69,21481,Isak Goodnoe,Goa gubbar,10,86,325196,12,1016,0,16
+70,21481,Isak Goodnoe,Goa gubbar,11,24,453936,5,1022,0,10
+71,21481,Isak Goodnoe,Goa gubbar,12,58,856347,23,1024,0,23
+72,3755321,Adam Larsson,Raka Bananer,1,75,1648468,30,1000,0,4
+73,3755321,Adam Larsson,Raka Bananer,2,41,2921098,30,1002,0,2
+74,3755321,Adam Larsson,Raka Bananer,3,45,2896132,1,1004,0,6
+75,3755321,Adam Larsson,Raka Bananer,4,84,1845039,6,1005,0,9
+76,3755321,Adam Larsson,Raka Bananer,5,45,1795059,6,1002,0,9
+77,3755321,Adam Larsson,Raka Bananer,6,87,831412,6,1001,0,4
+78,3755321,Adam Larsson,Raka Bananer,7,47,1141887,6,1003,0,7
+79,3755321,Adam Larsson,Raka Bananer,8,32,2321762,20,999,4,6
+80,3755321,Adam Larsson,Raka Bananer,9,86,1611163,10,1001,0,3
+81,3755321,Adam Larsson,Raka Bananer,10,60,2017212,4,999,0,7
+82,3755321,Adam Larsson,Raka Bananer,11,34,1839558,4,1008,0,10
+83,3755321,Adam Larsson,Raka Bananer,12,88,1038590,4,1011,0,14
+84,4001556,Oliver Granered,a team of garraghers,1,83,353784,0,1000,0,2
+85,4001556,Oliver Granered,a team of garraghers,2,60,189103,5,1002,0,1
+86,4001556,Oliver Granered,a team of garraghers,3,44,427381,9,1006,0,4
+87,4001556,Oliver Granered,a team of garraghers,4,71,1067105,1,1009,4,3
+88,4001556,Oliver Granered,a team of garraghers,5,51,662712,1,1009,0,0
+89,4001556,Oliver Granered,a team of garraghers,6,92,180650,2,1005,0,8
+90,4001556,Oliver Granered,a team of garraghers,7,56,198421,26,1008,0,8
+91,4001556,Oliver Granered,a team of garraghers,8,49,253951,7,1009,4,0
+92,4001556,Oliver Granered,a team of garraghers,9,50,1154980,7,1009,0,2
+93,4001556,Oliver Granered,a team of garraghers,10,72,995683,2,1011,0,0
+94,4001556,Oliver Granered,a team of garraghers,11,53,350086,2,1011,0,2
+95,4001556,Oliver Granered,a team of garraghers,12,46,1089443,2,1015,0,0
+96,3264057,David Adolfsson,Wengers Dream XI,1,80,710070,10,1000,0,3
+97,3264057,David Adolfsson,Wengers Dream XI,2,49,1060947,10,1002,0,2
+98,3264057,David Adolfsson,Wengers Dream XI,3,39,2039192,16,1004,0,4
+99,3264057,David Adolfsson,Wengers Dream XI,4,75,2053162,10,1005,0,6
+100,3264057,David Adolfsson,Wengers Dream XI,5,35,3114470,8,1003,0,2
+101,3264057,David Adolfsson,Wengers Dream XI,6,92,1279643,15,1001,0,7
+102,3264057,David Adolfsson,Wengers Dream XI,7,68,540768,3,1000,0,1
+103,3264057,David Adolfsson,Wengers Dream XI,8,33,1130415,4,1000,0,6
+104,3264057,David Adolfsson,Wengers Dream XI,9,61,1945882,3,1000,0,6
+105,3264057,David Adolfsson,Wengers Dream XI,10,68,1913309,2,999,0,22
+106,3264057,David Adolfsson,Wengers Dream XI,11,31,1898263,2,1005,0,11
+107,3264057,David Adolfsson,Wengers Dream XI,12,77,1523939,1,1011,0,18
+108,3086259,Moises Löfroth,Zeman Boyz,1,75,1648468,0,1000,0,10
+109,3086259,Moises Löfroth,Zeman Boyz,2,48,1890551,25,1003,0,7
+110,3086259,Moises Löfroth,Zeman Boyz,3,65,371756,25,1007,0,9
+111,3086259,Moises Löfroth,Zeman Boyz,4,53,2247286,19,1007,0,6
+112,3086259,Moises Löfroth,Zeman Boyz,5,47,1998176,9,1006,0,4
+113,3086259,Moises Löfroth,Zeman Boyz,6,55,3595653,23,1002,0,11
+114,3086259,Moises Löfroth,Zeman Boyz,7,67,2074616,32,1011,0,5
+115,3086259,Moises Löfroth,Zeman Boyz,8,50,2335169,0,1014,8,1
+116,3086259,Moises Löfroth,Zeman Boyz,9,85,1673397,3,1018,0,5
+117,3086259,Moises Löfroth,Zeman Boyz,10,69,1608364,0,1022,0,4
+118,3086259,Moises Löfroth,Zeman Boyz,11,31,1585369,0,1027,0,8
+119,3086259,Moises Löfroth,Zeman Boyz,12,67,1718775,4,1027,0,2
+120,3080712,David Lindahl,Stamford Celery,1,67,3683786,0,1000,0,14
+121,3080712,David Lindahl,Stamford Celery,2,64,865442,0,1003,0,5
+122,3080712,David Lindahl,Stamford Celery,3,36,2157094,11,1007,0,7
+123,3080712,David Lindahl,Stamford Celery,4,73,2379176,16,1009,0,4
+124,3080712,David Lindahl,Stamford Celery,5,34,3561574,4,1008,0,9
+125,3080712,David Lindahl,Stamford Celery,6,88,1878049,4,1006,0,2
+126,3080712,David Lindahl,Stamford Celery,7,37,2985066,0,1005,0,29
+127,3080712,David Lindahl,Stamford Celery,8,59,1897359,3,1000,0,5
+128,3080712,David Lindahl,Stamford Celery,9,91,1089181,3,1006,0,5
+129,3080712,David Lindahl,Stamford Celery,10,68,1086791,3,1009,0,3
+130,3080712,David Lindahl,Stamford Celery,11,27,1646008,0,1014,8,3
+131,3080712,David Lindahl,Stamford Celery,12,67,1766051,0,1017,0,0
+132,1641833,Patrick Sjöstedt,Sometimes maybe good,1,71,2641868,5,1000,0,5
+133,1641833,Patrick Sjöstedt,Sometimes maybe good,2,22,6158078,5,1002,0,9
+134,1641833,Patrick Sjöstedt,Sometimes maybe good,3,74,2157094,4,1004,0,5
+135,1641833,Patrick Sjöstedt,Sometimes maybe good,4,75,2160173,7,1006,0,6
+136,1641833,Patrick Sjöstedt,Sometimes maybe good,5,30,3781296,13,1006,0,7
+137,1641833,Patrick Sjöstedt,Sometimes maybe good,6,73,3825277,17,1004,4,7
+138,1641833,Patrick Sjöstedt,Sometimes maybe good,7,57,3088719,17,1006,0,3
+139,1641833,Patrick Sjöstedt,Sometimes maybe good,8,61,1842803,0,1002,0,9
+140,1641833,Patrick Sjöstedt,Sometimes maybe good,9,82,1458729,0,1010,0,2
+141,1641833,Patrick Sjöstedt,Sometimes maybe good,10,69,1413064,5,1012,0,5
+142,1641833,Patrick Sjöstedt,Sometimes maybe good,11,29,1485356,5,1018,0,1
+143,1641833,Patrick Sjöstedt,Sometimes maybe good,12,57,2111632,2,1022,0,2
+144,4104121,Per Hammas,Duck Slice IF,1,60,5312522,5,1000,0,0
+145,4104121,Per Hammas,Duck Slice IF,2,47,5010007,13,999,4,0
+146,4104121,Per Hammas,Duck Slice IF,3,33,5831480,22,1001,0,2
+147,4104121,Per Hammas,Duck Slice IF,4,71,5747730,9,1000,0,18
+148,4104121,Per Hammas,Duck Slice IF,5,52,5100530,16,997,0,13
+149,4104121,Per Hammas,Duck Slice IF,6,77,4251128,16,998,0,6
+150,4104121,Per Hammas,Duck Slice IF,7,50,4095266,27,1000,0,8
+151,4104121,Per Hammas,Duck Slice IF,8,49,3671287,26,1000,0,6
+152,4104121,Per Hammas,Duck Slice IF,9,83,2789591,26,1001,0,3
+153,4104121,Per Hammas,Duck Slice IF,10,82,1931795,4,1004,0,3
+154,4104121,Per Hammas,Duck Slice IF,11,28,2083503,4,1007,0,9
+155,4104121,Per Hammas,Duck Slice IF,12,65,2275040,0,1010,0,3
+156,7045489,Petter Nilsson,Peppes Angels,1,78,1020807,0,1000,0,6
+157,7045489,Petter Nilsson,Peppes Angels,2,43,2126578,0,1003,0,7
+158,7045489,Petter Nilsson,Peppes Angels,3,49,1810547,7,1006,0,5
+159,7045489,Petter Nilsson,Peppes Angels,4,74,1926932,7,1009,0,9
+160,7045489,Petter Nilsson,Peppes Angels,5,39,2558488,2,1007,0,8
+161,7045489,Petter Nilsson,Peppes Angels,6,81,1712374,0,1003,0,16
+162,7045489,Petter Nilsson,Peppes Angels,7,41,2475644,11,1008,0,8
+163,7045489,Petter Nilsson,Peppes Angels,8,47,2635253,0,1007,4,1
+164,7045489,Petter Nilsson,Peppes Angels,9,93,1458729,0,1008,0,3
+165,7045489,Petter Nilsson,Peppes Angels,10,57,2270460,13,1011,4,4
+166,7045489,Petter Nilsson,Peppes Angels,11,33,2141385,13,1017,0,22
+167,7045489,Petter Nilsson,Peppes Angels,12,64,2381651,19,1015,0,6
+168,5642049,Petter Sandhammar,FC Kindberg,1,70,2900746,5,1000,0,1
+169,5642049,Petter Sandhammar,FC Kindberg,2,49,3218433,0,1002,4,0
+170,5642049,Petter Sandhammar,FC Kindberg,3,54,1923703,0,1005,0,36
+171,5642049,Petter Sandhammar,FC Kindberg,4,80,1436052,0,1014,0,5
+172,5642049,Petter Sandhammar,FC Kindberg,5,53,837294,4,1016,0,11
+173,5642049,Petter Sandhammar,FC Kindberg,6,63,1633657,4,1019,0,9
+174,5642049,Petter Sandhammar,FC Kindberg,7,33,3069663,0,1024,0,14
+175,5642049,Petter Sandhammar,FC Kindberg,8,54,2650656,3,1025,4,3
+176,5642049,Petter Sandhammar,FC Kindberg,9,81,2117692,3,1028,0,3
+177,5642049,Petter Sandhammar,FC Kindberg,10,65,2512664,33,1026,4,8
+178,5642049,Petter Sandhammar,FC Kindberg,11,26,3083700,5,1031,4,6
+179,5642049,Petter Sandhammar,FC Kindberg,12,74,2664115,2,1034,0,5
+180,3771963,Alexander Jonsson,Gennaro’s Bambinos,1,80,710070,0,1000,0,4
+181,3771963,Alexander Jonsson,Gennaro’s Bambinos,2,54,608927,0,1001,0,12
+182,3771963,Alexander Jonsson,Gennaro’s Bambinos,3,42,1197457,0,1000,0,5
+183,3771963,Alexander Jonsson,Gennaro’s Bambinos,4,75,1684718,14,1002,4,2
+184,3771963,Alexander Jonsson,Gennaro’s Bambinos,5,41,2023056,14,1002,0,13
+185,3771963,Alexander Jonsson,Gennaro’s Bambinos,6,70,2222348,14,1000,0,15
+186,3771963,Alexander Jonsson,Gennaro’s Bambinos,7,32,4095266,3,999,4,2
+187,3771963,Alexander Jonsson,Gennaro’s Bambinos,8,51,3512901,12,996,0,1
+188,3771963,Alexander Jonsson,Gennaro’s Bambinos,9,74,3241098,12,993,0,1
+189,3771963,Alexander Jonsson,Gennaro’s Bambinos,10,64,3700695,2,992,4,4
+190,3771963,Alexander Jonsson,Gennaro’s Bambinos,11,43,2945752,2,995,0,19
+191,3771963,Alexander Jonsson,Gennaro’s Bambinos,12,71,2703986,2,997,0,2
+192,6215391,Fredrik Strömberg,More_Salad_FC,1,79,865905,0,1000,0,4
+193,6215391,Fredrik Strömberg,More_Salad_FC,2,37,2983642,0,1002,0,3
+194,6215391,Fredrik Strömberg,More_Salad_FC,3,41,3401521,6,1001,0,0
+195,6215391,Fredrik Strömberg,More_Salad_FC,4,78,2937796,2,1001,0,3
+196,6215391,Fredrik Strömberg,More_Salad_FC,5,48,2533857,2,998,0,2
+197,6215391,Fredrik Strömberg,More_Salad_FC,6,73,2419215,3,995,0,1
+198,6215391,Fredrik Strömberg,More_Salad_FC,7,40,3238398,2,994,0,9
+199,6215391,Fredrik Strömberg,More_Salad_FC,8,53,2545860,12,990,0,6
+200,6215391,Fredrik Strömberg,More_Salad_FC,9,76,2336898,12,992,0,4
+201,6215391,Fredrik Strömberg,More_Salad_FC,10,58,2916486,10,995,0,3
+202,6215391,Fredrik Strömberg,More_Salad_FC,11,31,2921443,10,999,0,19
+203,6215391,Fredrik Strömberg,More_Salad_FC,12,68,2856337,10,1000,0,0
+204,433100,Jonatan Lundberg,FC Kanonkula,1,74,1871592,5,1000,0,4
+205,433100,Jonatan Lundberg,FC Kanonkula,2,49,1829113,5,1003,0,2
+206,433100,Jonatan Lundberg,FC Kanonkula,3,79,55012,34,1006,0,6
+207,433100,Jonatan Lundberg,FC Kanonkula,4,67,411264,22,1013,4,8
+208,433100,Jonatan Lundberg,FC Kanonkula,5,24,1921548,22,1014,0,8
+209,433100,Jonatan Lundberg,FC Kanonkula,6,63,2809216,6,1011,0,16
+210,433100,Jonatan Lundberg,FC Kanonkula,7,40,3594897,16,1011,0,3
+211,433100,Jonatan Lundberg,FC Kanonkula,8,47,3339290,4,1010,0,7
+212,433100,Jonatan Lundberg,FC Kanonkula,9,81,2652520,4,1018,0,11
+213,433100,Jonatan Lundberg,FC Kanonkula,10,76,2146124,0,1016,0,2
+214,433100,Jonatan Lundberg,FC Kanonkula,11,23,2882228,1,1021,4,9
+215,433100,Jonatan Lundberg,FC Kanonkula,12,61,3223788,19,1022,0,15
+216,2204695,Wiktor Lindström,Spölands IF,1,80,710070,10,1000,0,3
+217,2204695,Wiktor Lindström,Spölands IF,2,37,2823904,10,1003,0,2
+218,2204695,Wiktor Lindström,Spölands IF,3,87,147749,13,1006,8,5
+219,2204695,Wiktor Lindström,Spölands IF,4,69,416651,17,1012,0,9
+220,2204695,Wiktor Lindström,Spölands IF,5,34,1066759,17,1013,0,11
+221,2204695,Wiktor Lindström,Spölands IF,6,83,622104,11,1012,0,7
+222,2204695,Wiktor Lindström,Spölands IF,7,27,2192615,4,1011,0,7
+223,2204695,Wiktor Lindström,Spölands IF,8,57,1417516,10,1008,0,6
+224,2204695,Wiktor Lindström,Spölands IF,9,65,2013154,0,1009,0,3
+225,2204695,Wiktor Lindström,Spölands IF,10,63,2270460,7,1007,0,2
+226,2204695,Wiktor Lindström,Spölands IF,11,27,2508792,26,1006,0,1
+227,2204695,Wiktor Lindström,Spölands IF,12,52,3403717,10,1004,0,1
+228,2708994,Sarayut Sathianbun,HamstringChampion,1,69,3163317,15,1000,0,5
+229,2708994,Sarayut Sathianbun,HamstringChampion,2,35,4818690,14,1002,0,12
+230,2708994,Sarayut Sathianbun,HamstringChampion,3,52,3506664,6,1004,0,11
+231,2708994,Sarayut Sathianbun,HamstringChampion,4,75,3828757,23,1011,4,7
+232,2708994,Sarayut Sathianbun,HamstringChampion,5,32,5081162,12,1010,0,7
+233,2708994,Sarayut Sathianbun,HamstringChampion,6,71,4757260,14,1010,0,12
+234,2708994,Sarayut Sathianbun,HamstringChampion,7,45,4944310,18,1011,0,7
+235,2708994,Sarayut Sathianbun,HamstringChampion,8,62,3498728,1,1008,0,8
+236,2708994,Sarayut Sathianbun,HamstringChampion,9,74,3779402,1,1009,8,4
+237,2708994,Sarayut Sathianbun,HamstringChampion,10,58,4324152,1,1010,0,9
+238,2708994,Sarayut Sathianbun,HamstringChampion,11,28,4549856,11,1008,0,4
+239,2708994,Sarayut Sathianbun,HamstringChampion,12,80,3637241,15,1008,0,4
+240,2124010,Simon Stenlund,Simon Stenkoll,1,78,1020807,30,1000,0,5
+241,2124010,Simon Stenlund,Simon Stenkoll,2,44,1977198,30,1003,0,1
+242,2124010,Simon Stenlund,Simon Stenkoll,3,61,638768,14,1006,0,3
+243,2124010,Simon Stenlund,Simon Stenkoll,4,78,577404,19,1008,0,6
+244,2124010,Simon Stenlund,Simon Stenkoll,5,32,1534874,5,1007,0,6
+245,2124010,Simon Stenlund,Simon Stenkoll,6,62,2491452,5,1006,0,4
+246,2124010,Simon Stenlund,Simon Stenkoll,7,45,2886382,12,1004,0,4
+247,2124010,Simon Stenlund,Simon Stenkoll,8,38,3406208,1,1007,0,6
+248,2124010,Simon Stenlund,Simon Stenkoll,9,65,3754432,10,1007,0,2
+249,2124010,Simon Stenlund,Simon Stenkoll,10,59,4241470,2,1000,0,21
+250,2124010,Simon Stenlund,Simon Stenkoll,11,23,4767249,2,1007,0,15
+251,2124010,Simon Stenlund,Simon Stenkoll,12,74,4191539,2,1011,0,9
+252,5818158,Sebastian Glaas,HansScheike,1,67,3683786,0,1000,0,30
+253,5818158,Sebastian Glaas,HansScheike,2,45,3564816,0,1003,0,3
+254,5818158,Sebastian Glaas,HansScheike,3,49,2896132,21,1004,0,6
+255,5818158,Sebastian Glaas,HansScheike,4,83,1926932,21,1006,0,10
+256,5818158,Sebastian Glaas,HansScheike,5,35,3002598,7,1004,0,10
+257,5818158,Sebastian Glaas,HansScheike,6,83,1878049,7,1003,0,4
+258,5818158,Sebastian Glaas,HansScheike,7,34,3238398,19,1002,0,9
+259,5818158,Sebastian Glaas,HansScheike,8,39,3645438,19,1000,0,3
+260,5818158,Sebastian Glaas,HansScheike,9,50,4902898,8,998,0,13
+261,5818158,Sebastian Glaas,HansScheike,10,60,5257013,8,997,0,3
+262,5818158,Sebastian Glaas,HansScheike,11,50,4154266,5,993,0,-1
+263,5818158,Sebastian Glaas,HansScheike,12,63,4259869,0,993,0,14
+264,4129324,Ludvig Book,Ångest FF,1,78,1020807,0,1000,0,6
+265,4129324,Ludvig Book,Ångest FF,2,41,2497426,4,1002,0,12
+266,4129324,Ludvig Book,Ångest FF,3,36,3653381,1,1001,0,24
+267,4129324,Ludvig Book,Ångest FF,4,71,3936961,3,1004,0,3
+268,4129324,Ludvig Book,Ångest FF,5,40,4413029,6,1002,0,4
+269,4129324,Ludvig Book,Ångest FF,6,69,4322732,6,997,0,3
+270,4129324,Ludvig Book,Ångest FF,7,42,4794031,16,998,0,12
+271,4129324,Ludvig Book,Ångest FF,8,36,5281450,5,995,0,8
+272,4129324,Ludvig Book,Ångest FF,9,65,5301396,5,996,0,6
+273,4129324,Ludvig Book,Ångest FF,10,74,4847274,5,998,0,4
+274,4129324,Ludvig Book,Ångest FF,11,33,4764186,5,999,0,16
+275,4129324,Ludvig Book,Ångest FF,12,70,4418971,5,1001,0,5
+276,4625755,Axel Lonaeus,Alon rookies,1,64,4429642,15,1000,0,4
+277,4625755,Axel Lonaeus,Alon rookies,2,31,5942967,15,1001,0,2
+278,4625755,Axel Lonaeus,Alon rookies,3,59,3778675,3,999,0,3
+279,4625755,Axel Lonaeus,Alon rookies,4,70,4131088,3,1000,0,7
+280,4625755,Axel Lonaeus,Alon rookies,5,53,3192433,3,999,0,4
+281,4625755,Axel Lonaeus,Alon rookies,6,67,3497466,3,998,0,1
+282,4625755,Axel Lonaeus,Alon rookies,7,66,2074616,0,999,0,3
+283,4625755,Axel Lonaeus,Alon rookies,8,36,2763680,5,998,0,6
+284,4625755,Axel Lonaeus,Alon rookies,9,57,3743342,4,999,0,2
+285,4625755,Axel Lonaeus,Alon rookies,10,60,4175067,21,999,0,2
+286,4625755,Axel Lonaeus,Alon rookies,11,34,4015577,38,1001,0,0
+287,4625755,Axel Lonaeus,Alon rookies,12,58,4421340,38,1004,0,0
+288,4874767,Filip Forsman,Rooney FC,1,69,3163317,0,1000,0,3
+289,4874767,Filip Forsman,Rooney FC,2,26,6391786,4,1001,4,0
+290,4874767,Filip Forsman,Rooney FC,3,64,3653381,4,1003,0,4
+291,4874767,Filip Forsman,Rooney FC,4,71,3917066,4,1005,0,3
+292,4874767,Filip Forsman,Rooney FC,5,38,4585890,4,1006,0,5
+293,4874767,Filip Forsman,Rooney FC,6,80,3497466,4,1003,0,5
+294,4874767,Filip Forsman,Rooney FC,7,38,4384005,6,1003,0,0
+295,4874767,Filip Forsman,Rooney FC,8,37,5145779,9,1002,4,1
+296,4874767,Filip Forsman,Rooney FC,9,67,5068842,9,1003,0,2
+297,4874767,Filip Forsman,Rooney FC,10,55,5679348,9,1001,0,0
+298,4874767,Filip Forsman,Rooney FC,11,35,5509918,3,997,0,5
+299,4874767,Filip Forsman,Rooney FC,12,71,5083406,3,998,0,1
+300,6581295,Lars Edvardsson,Lartzas sopnissar,1,72,2372852,0,1000,0,3
+301,6581295,Lars Edvardsson,Lartzas sopnissar,2,48,2277634,0,1002,0,5
+302,6581295,Lars Edvardsson,Lartzas sopnissar,3,37,3401521,26,1001,0,4
+303,6581295,Lars Edvardsson,Lartzas sopnissar,4,57,5506354,3,1003,4,7
+304,6581295,Lars Edvardsson,Lartzas sopnissar,5,41,5737848,3,1005,0,3
+305,6581295,Lars Edvardsson,Lartzas sopnissar,6,86,4182594,0,1006,0,8
+306,6581295,Lars Edvardsson,Lartzas sopnissar,7,38,4944310,0,1010,0,13
+307,6581295,Lars Edvardsson,Lartzas sopnissar,8,36,5429829,19,1007,0,6
+308,6581295,Lars Edvardsson,Lartzas sopnissar,9,72,5022343,19,1007,0,16
+309,6581295,Lars Edvardsson,Lartzas sopnissar,10,50,5896971,11,1008,0,6
+310,6581295,Lars Edvardsson,Lartzas sopnissar,11,41,5639277,6,1006,4,8
+311,6581295,Lars Edvardsson,Lartzas sopnissar,12,66,5466425,6,1008,0,6
+312,3697599,Erik Östlund,Art Vandelay,1,73,2126260,0,1000,0,4
+313,3697599,Erik Östlund,Art Vandelay,2,44,2759237,0,1002,0,16
+314,3697599,Erik Östlund,Art Vandelay,3,43,3578199,17,1004,4,25
+315,3697599,Erik Östlund,Art Vandelay,4,78,3088016,16,1007,0,3
+316,3697599,Erik Östlund,Art Vandelay,5,35,4103079,16,1005,0,10
+317,3697599,Erik Östlund,Art Vandelay,6,73,4106201,0,1002,4,8
+318,3697599,Erik Östlund,Art Vandelay,7,58,3257246,0,1002,0,12
+319,3697599,Erik Östlund,Art Vandelay,8,37,3828413,8,1005,0,15
+320,3697599,Erik Östlund,Art Vandelay,9,72,3632777,8,1011,0,5
+321,3697599,Erik Östlund,Art Vandelay,10,51,4873401,1,1011,4,5
+322,3697599,Erik Östlund,Art Vandelay,11,24,5310021,1,1012,0,7
+323,3697599,Erik Östlund,Art Vandelay,12,57,5615674,3,1012,0,2
+324,7048445,Sorena Rezvan,PetrusVonErectus,1,78,1020807,0,1000,0,7
+325,7048445,Sorena Rezvan,PetrusVonErectus,2,47,1550166,0,1002,0,3
+326,7048445,Sorena Rezvan,PetrusVonErectus,3,20,4818736,0,1001,0,10
+327,7048445,Sorena Rezvan,PetrusVonErectus,4,64,5538460,0,1001,0,1
+328,7048445,Sorena Rezvan,PetrusVonErectus,5,37,6077115,0,995,0,3
+329,7048445,Sorena Rezvan,PetrusVonErectus,6,60,6361527,0,994,0,2
+330,7048445,Sorena Rezvan,PetrusVonErectus,7,49,6217908,0,993,0,1
+331,7048445,Sorena Rezvan,PetrusVonErectus,8,42,6233333,18,993,0,11
+332,7048445,Sorena Rezvan,PetrusVonErectus,9,39,7196183,2,994,0,8
+333,7048445,Sorena Rezvan,PetrusVonErectus,10,74,6874407,2,994,0,5
+334,7048445,Sorena Rezvan,PetrusVonErectus,11,24,7162380,2,990,0,2
+335,7048445,Sorena Rezvan,PetrusVonErectus,12,58,7230767,2,989,0,2
